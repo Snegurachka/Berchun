@@ -4,6 +4,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Привет, Кирилл");
+        System.out.println("Привет, Лена");
     }
 }
